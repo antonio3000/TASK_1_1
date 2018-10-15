@@ -7,7 +7,7 @@ public class Main {
 
 
         for(String s : args){
-        System.out.println(("Соколовский Антон, ЛПВФП 11-Ю"));
+        System.out.println("Соколовский Антон, ЛПВФП 11-Ю");
     }
 }
 }
